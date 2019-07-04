@@ -1,3 +1,3 @@
-a=input()
-b=a.swapcase()
+x=input()
+b=x.swapcase()
 print(b)
